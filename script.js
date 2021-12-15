@@ -1,4 +1,4 @@
-let outputSreen = document.getElementById('outputSreen');
+let outputSreen = document.getElementById('output-screen');
 
 funcion display(num){
  outputSreen.value += num;
