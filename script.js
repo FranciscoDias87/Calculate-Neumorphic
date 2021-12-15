@@ -4,7 +4,7 @@ funcion display(num){
  outputSreen.value += num;
 }
 
-function calculate(){
+function Calculate{
 try{
  outputSreen.value = eval(outputSreen.value);
 }
