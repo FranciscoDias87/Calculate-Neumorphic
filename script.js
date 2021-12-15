@@ -1,0 +1,1 @@
+let outputSreen = document.getElementById('putp')
