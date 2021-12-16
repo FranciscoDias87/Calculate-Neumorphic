@@ -1,6 +1,6 @@
 let outputSreen = document.getElementById('output-screen');
 
-function display(num){
+function Display(num){
     outputSreen.value += num;
 }
 
